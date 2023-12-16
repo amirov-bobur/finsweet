@@ -1,0 +1,538 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  background-color: rgb(240, 255, 235);
+}
+
+.vector {
+  width: 94.19px;
+  height: 35.67px;
+  margin-top: 55.38px;
+  margin-left: 227.49px;
+}
+
+ul {
+  display: flex;
+  gap: 2rem;
+  margin-top: -30px;
+  margin-left: 640px;
+}
+
+li {
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  color: #cbcbcb;
+  transition: all 0.5s;
+}
+
+li:first-child {
+  color: rgb(0, 0, 0);
+}
+
+lI:hover {
+  color: #787878;
+}
+
+li:first-child:hover {
+  color: rgb(121, 121, 121);
+}
+
+.bnt {
+  position: absolute;
+  width: 149px;
+  height: 49px;
+  border-radius: 4px;
+  margin-left: 1160px;
+  margin-top: -30px;
+  background: #5CBE3A;
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: white;
+  border: none;
+}
+
+.h3 {
+  position: absolute;
+  font-family: "Rubik", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5CBE3A;
+  top: 201.37px;
+  left: 227.33px;
+}
+
+.nike-logo {
+  position: absolute;
+  top: 228.56px;
+  left: 577.4px;
+}
+
+h1 {
+  position: absolute;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-size: 61px;
+  font-weight: 700;
+  line-height: 73px;
+  letter-spacing: 0em;
+  text-align: left;
+  top: 250px;
+  left: 220px;
+}
+
+p {
+  position: absolute;
+  width: 392px;
+  height: 45px;
+  top: 329.57px;
+  left: 227.33px;
+  opacity: 0.7px;
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.p {
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 425.48px;
+  height: 25px;
+  top: 385.89px;
+  left: 227.33px;
+  opacity: 0.7px;
+}
+
+.b {
+  color: #5CBE3A;
+}
+
+.Price-logo {
+  position: absolute;
+  top: 420px;
+  left: 227.33px;
+}
+
+.btn2 {
+  position: absolute;
+  width: 149px;
+  height: 49px;
+  border-radius: 4px;
+  margin-left: 225px;
+  margin-top: 400px;
+  background: #5CBE3A;
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  color: white;
+  border: 1px;
+  transition: all 0.5s;
+}
+
+.btn2:hover {
+  background-color: #93dd7b;
+}
+
+.btn3 {
+  position: absolute;
+  width: 163px;
+  height: 49px;
+  top: 486px;
+  left: 406.33px;
+  border-radius: 4px;
+  border: 1px;
+  border: 1px solid rgba(92, 190, 58, 0.3019607843);
+  transition: all 0.5s;
+}
+
+.btn3:hover {
+  background: #aeff90;
+}
+
+.krossovka {
+  position: absolute;
+  top: 60px;
+  left: 320px;
+}
+
+.group-16 {
+  position: absolute;
+  top: 600px;
+  left: 220px;
+}
+
+.group-17 {
+  position: absolute;
+  top: 600px;
+  left: 440px;
+}
+
+.ellipse {
+  position: absolute;
+  top: 620px;
+  left: 800px;
+}
+
+.ellipse1 {
+  position: absolute;
+  top: 620px;
+  left: 1000px;
+}
+
+.ellipse2 {
+  position: absolute;
+  top: 620px;
+  left: 1200px;
+}
+
+h2 {
+  position: relative;
+  font-family: monospace;
+  font-size: 44px;
+  font-weight: 500;
+  height: 44.32px;
+  top: 800px;
+  left: 550px;
+}
+
+.forward {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 469.19px;
+  height: 45.35px;
+  margin-top: 650px;
+  margin-left: 300px;
+  opacity: 0.7px;
+}
+
+.ellise14 {
+  margin-top: 900px;
+  margin-left: 150px;
+}
+
+.zoom-page {
+  position: absolute;
+  margin-top: 1020px;
+  margin-left: 180px;
+}
+
+.img7 {
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 600px;
+}
+
+.ellipse15 {
+  margin-top: -470px;
+  margin-left: 570px;
+}
+
+.nike-pegasus {
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 1000px;
+}
+
+.ellipse16 {
+  margin-top: -470px;
+  margin-left: 980px;
+}
+
+.h4 {
+  font-family: sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  margin-top: 20px;
+  margin-left: 250px;
+}
+
+.star {
+  position: relative;
+  left: 260px;
+  top: 10px;
+}
+
+.logo-dengi {
+  position: absolute;
+  margin-top: 42px;
+  margin-left: 90px;
+}
+
+.btn4 {
+  position: absolute;
+  width: 149px;
+  height: 49px;
+  top: 1750px;
+  left: 1100px;
+  padding: 15px, 30px, 15px, 30px;
+  border-radius: 4px;
+  background: rgb(240, 255, 235);
+  color: green;
+  border: 1px solid black;
+}
+
+.h5 {
+  font-family: sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  margin-top: 20px;
+  margin-left: 690px;
+}
+
+.star1 {
+  position: relative;
+  left: 700px;
+  top: 10px;
+}
+
+.logo-dengi1 {
+  position: absolute;
+  margin-top: 42px;
+  margin-left: 530px;
+}
+
+.btn5 {
+  position: absolute;
+  width: 149px;
+  height: 49px;
+  top: 1650px;
+  left: 700px;
+  padding: 15px, 30px, 15px, 30px;
+  border-radius: 4px;
+  background: rgb(240, 255, 235);
+  color: green;
+  border: 1px solid black;
+}
+
+.h6 {
+  font-family: sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  margin-top: 20px;
+  margin-left: 1100px;
+}
+
+.star2 {
+  position: relative;
+  left: 1110px;
+  top: 10px;
+}
+
+.logo-dengi2 {
+  position: absolute;
+  margin-top: 42px;
+  margin-left: 950px;
+}
+
+.btn6 {
+  position: absolute;
+  width: 149px;
+  height: 49px;
+  top: 1550px;
+  left: 250px;
+  padding: 15px, 30px, 15px, 30px;
+  border-radius: 4px;
+  border: 0.5px solid black;
+  gap: 10px;
+  background: rgb(240, 255, 235);
+  color: green;
+  border: 1px solid black;
+}
+
+.telling {
+  position: absolute;
+  width: 362px;
+  height: 111.02px;
+  top: 1858.85px;
+  left: 300px;
+  font-family: "Raleway", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+h5 {
+  position: absolute;
+  width: 271.36px;
+  height: 69.12px;
+  top: 2000px;
+  left: 300px;
+  opacity: 0.7px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.rectangle41 {
+  position: absolute;
+  width: 607.97px;
+  height: 433.34px;
+  top: 1800px;
+  left: 700px;
+  border-radius: 10px;
+}
+
+.rcetangle20 {
+  position: absolute;
+  width: 636.85px;
+  height: 568.78px;
+  top: 2415.57px;
+  left: 148.49px;
+  border-radius: 10px;
+}
+
+.people {
+  position: absolute;
+  width: 476px;
+  height: 114px;
+  top: 2489.92px;
+  left: 905.81px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.ready-strategy {
+  width: 392px;
+  height: 45.35px;
+  top: 2629px;
+  left: 955.81px;
+  opacity: 0.7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.ready-strategy2 {
+  width: 392px;
+  height: 45.35px;
+  top: 2700px;
+  left: 955.81px;
+  opacity: 0.7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.ready-strategy3 {
+  width: 392px;
+  height: 45.35px;
+  top: 2780px;
+  left: 955.81px;
+  opacity: 0.7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.ready-strategy4 {
+  width: 392px;
+  height: 45.35px;
+  top: 2860px;
+  left: 955.81px;
+  opacity: 0.7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.arrow-2 {
+  position: absolute;
+  width: 45.78px;
+  height: 37.98px;
+  top: 3300.93px;
+  left: 306.25px;
+}
+
+.arrow-3 {
+  position: absolute;
+  width: 45.78px;
+  height: 37.98px;
+  top: 3300px;
+  left: 400px;
+}
+
+.more {
+  position: absolute;
+  width: 195px;
+  height: 61px;
+  top: 3374.38px;
+  left: 280px;
+  padding: 15px, 30px, 15px, 30px;
+  border-radius: 4px;
+  border: 1px solid black;
+  gap: 10px;
+}
+
+.ellipse3 {
+  position: absolute;
+  width: 24.65px;
+  height: 24.65px;
+  top: 3484.44px;
+  left: 295.34px;
+  opacity: 0.3px;
+}
+
+.ellipse4 {
+  position: absolute;
+  width: 24.65px;
+  height: 24.65px;
+  top: 3484.44px;
+  left: 347.02px;
+}
+
+.ellipse5 {
+  position: absolute;
+  width: 24.65px;
+  height: 24.65px;
+  top: 3484.44px;
+  left: 398.69px;
+  opacity: 0.3px;
+}
+
+.greatest {
+  -webkit-mask-position: absolute;
+          mask-position: absolute;
+  top: 1500px;
+  left: 700px;
+}/*# sourceMappingURL=style.css.map */
